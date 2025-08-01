@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá!! eu sou o Vinicius Celes 🧐
+Atualmente, trabalho com análise de dados e gerenciamento de incidentes. Concluí minha graduação em Gestão da Tecnologia da Informação em julho de 2025 e tenho grande ambição em me tornar um DBA (Administrador de Banco de Dados).
+Estou focado em me especializar na área de dados e, por isso, venho me aprofundando diariamente em Python, SQL e MySQL.
 
-<!--
-**ViniciusCeles/ViniciusCeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+É um prazer ter você por aqui!
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim:
+- 🔭 Atualmente atuo com gerenciamento de incidentes
+- 🌱 Estudando: Python, SQL e MySQL
+- 👯 Em busca de oportunidades em análise de dados
+- 📫 Contato: vinius.celes73@outlook.com
+- ⚡ Curiosidade: Sou apaixonado por videogames 👾
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCeles&show_icons=true&rank_icon=github&theme=aura" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCeles&theme=aura" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://www.linkedin.com/in/vinicius-celes-geraldo-24902b271" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRuZGpmeHZpZnE5YjhvZnFzcjBxN2hvdTl5cnQzOGcxMHZkYW54ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJxNm7zrm3K4E/giphy.gif" alt="GIF centralizado" width="400">
+</p>
+
+##
+  Obrigado!
