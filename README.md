@@ -1,4 +1,4 @@
-## Olá!! eu sou o Vinicius Celes 🧐
+## Olá!! Eu sou o Vinicius Celes 🧐
 Atualmente, trabalho com análise de dados e gerenciamento de incidentes. Concluí minha graduação em Gestão da Tecnologia da Informação em julho de 2025 e tenho grande ambição em me tornar um DBA (Administrador de Banco de Dados).
 Estou focado em me especializar na área de dados e, por isso, venho me aprofundando diariamente em Python, SQL e MySQL.
 
